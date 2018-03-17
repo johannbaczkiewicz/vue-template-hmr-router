@@ -1,8 +1,8 @@
 node_modules/
 wwwroot/dist/
 yarn-error.log
+wwwroot/src/test.vue
 
 bin/
 obj/
 
-wwwroot/src/test.vue
