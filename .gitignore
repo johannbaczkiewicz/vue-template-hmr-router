@@ -1,2 +1,5 @@
 bin/
 obj/
+node_modules/
+wwwroot/dist/
+wwwroot/src/test.vue
